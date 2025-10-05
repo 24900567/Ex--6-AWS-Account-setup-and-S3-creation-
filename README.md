@@ -36,3 +36,7 @@ To delete a bucket, you must retype the bucket name. This policy is implemented 
 <img width="1506" height="739" alt="Screenshot 2025-10-05 191109" src="https://github.com/user-attachments/assets/bbb5259a-74f1-4a4b-a61d-0eaa46ef022f" />
 <img width="1487" height="743" alt="Screenshot 2025-10-05 191125" src="https://github.com/user-attachments/assets/a789a78b-ab94-4b39-86f1-801e3ee6ac4c" />
 
+## Result:
+
+Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) instance has been successfully created and launched in AWS.
+
